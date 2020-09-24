@@ -11,5 +11,6 @@ Router.map(function () {
   // served at the /about URL by default
   this.route('about')
   this.route('contact', {path: '/getting-in-touch'});
+  this.route('rental', {path: '/rentals/:rental_id'})
 
 });
