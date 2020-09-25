@@ -1,0 +1,17 @@
+<div class="rentals">
+  <label>
+    <span>Where would you like to stay?</span>
+<!--    `this.query` is kept in sync with the value of what is being searched -->
+    <Input @value={{this.query}} class="light"/>
+  </label>
+
+  <ul class="results">
+<!--    expect param: {object} @rentals-->
+<!--    this.query is from `rentals.js`-->
+    <Rentals::Filter @rentals={{@rentals}} @query={{this.query}} as |results|>
+      {{#each results as |rental|}}
+        <li><Rental @rental={{rental}} /></li>
+      {{/each}}
+    </Rentals::Filter>
+  </ul>
+</div>
