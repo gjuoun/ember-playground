@@ -1,0 +1,16 @@
+<!--
+  @param {float} @lat
+  @param {float} @lng
+  @param {int} @zoom #x like "2x", "3x"
+  @param {int} @width
+  @param {int} @height
+-->
+
+<div class="map">
+  <img
+          alt="Map image at coordinates {{@lat}},{{@lng}}"
+          ...attributes
+          src={{this.src}}
+          width={{@width}} height={{@height}}
+  >
+</div>
