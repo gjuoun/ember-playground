@@ -1,91 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ed73693-9416-48aa-886f-dc44ab4fc573" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ember-cli" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/node_modules_super_rentals.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/super-rentals.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.template-lintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.watchmanconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/adapters/application.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/jumbo.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/map.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/nav-bar.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/rental.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/rental/detailed.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/rental/image.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/rental/image.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/rentals.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/rentals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/rentals/filter.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/rentals/filter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/share-button.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/components/share-button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/helpers/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/rental.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/router.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes/rental.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/serializers/application.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/styles/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/about.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/application.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/contact.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/index.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/rental.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/ember-cli-update.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/optional-features.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/targets.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ember-cli-build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/api/rentals.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/api/rentals/downtown-charm.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/api/rentals/grand-old-mansion.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/api/rentals/urban-living.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/images/teaching-tomster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testem.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/acceptance/super-rentals-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/helpers/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/integration/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/integration/components/jumbo-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/integration/components/map-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/integration/components/rental-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/integration/components/rental/detailed-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/integration/components/rental/image-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/integration/components/rentals-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/integration/components/rentals/filter-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/integration/components/share-button-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test-helper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/unit/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/unit/adapters/application-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/unit/models/rental-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/unit/serializers/application-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/.gitkeep" beforeDir="false" />
-    </list>
+    <list default="true" id="6ed73693-9416-48aa-886f-dc44ab4fc573" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/super-rentals" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -117,21 +52,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602381310597</updated>
-      <workItem from="1602381311627" duration="1599000" />
+      <workItem from="1602381311627" duration="1886000" />
     </task>
+    <task id="LOCAL-00001" summary="add ember v3.7">
+      <created>1602383669546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602383669546</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add ember v3.7">
+      <created>1602383695094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602383695094</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add ember v3.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ember v3.7" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602381455398">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602383939132">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602381455398" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602383939132" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1602381324065">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602381324065" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602383696839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602383696839" />
   </component>
 </project>
