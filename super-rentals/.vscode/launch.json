@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Chrome debug",
+      "url": "http://localhost:4200/",
+      "sourceMapPathOverrides": {
+        "super-rentals/*": "${workspaceRoot}/app/*"
+      },
+      "runtimeArgs": [
+        "--remote-debugging-port=9222"
+      ],
+      "port": 9222,
+      "trace": true
+    }
+  ]
+}
